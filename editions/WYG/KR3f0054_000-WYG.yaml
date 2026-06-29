@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0054/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部六
+  hash: sha256:e521b19b98c66f823ee87bbea51ca642449b8543c55a824c23637d49bb62d81e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0054_WYG_000-1a, image: WYG0802/WYG0802-0697a.png}
+body:
+  text: 少廣補遺天文算法類二算書之屬提要臣等謹案少廣補遺一卷國朝陳世仁撰世仁海寧人康熈乙未進士其書以一面尖堆及方底三角底六角底尖堆各半堆等題分為十二法後有抽竒抽偶諸目蓋堆垜之法也按堆垜乃少廣中之一術與尖錐體相似而實不同蓋堆體臺體外平而中實堆垜為衆體所積面有峻峭中多空隙故二法相較煩簡頓殊古少廣中僅具以邊數層數求積數法亦未有解其故者至以積求邊數層數之法則未備焉又其為用甚少故算家率畧而不詳世仁有見於此専取堆垜諸形反覆相求各立一法雖圖説未具不能使學者窺其立法之意而於少廣之遺法引伸觸類實於數學有禆不可以其一隅而少之也乾隆四十六年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:f79cf1fc66557a8016dbbd89025043ccec7c8484a2a34cad8dd6f91f7c2a26dc
+metadata:
+  title: 少廣補遺
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:11:19.674690'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3f0054/KR3f0054_000.txt
+hash: sha256:fe1d67ab478f5e7bef4afdf746a92846ac4bbe82de8ba68646e7ff2123a830d3
